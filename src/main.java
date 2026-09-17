@@ -15,10 +15,6 @@ public class main{
                 membresiaPremium.ingresarConInvitado();
             }
         }
-
-
-
-
     }
 }
 
